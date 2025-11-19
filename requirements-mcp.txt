@@ -1,0 +1,1 @@
+mcp @ git+https://github.com/modelcontextprotocol/python-sdk.git@5489e8b6fb19ac32146eb633636df52b1dd049d5
